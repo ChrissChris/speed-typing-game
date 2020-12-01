@@ -1,9 +1,14 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 
 function App() {
+  const [text, setText] = useState("");
   return (
     <div className="App">
-      <h1>Speed Typing Game</h1>
+      <h1>How fast do you type?</h1>
+      <textarea></textarea>
+
+      <button>Start</button>
+      <h4>Time Remaining:</h4>
     </div>
   );
 }
