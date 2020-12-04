@@ -1,4 +1,4 @@
-# Speed Typing Game - Builded with React JS
+# Speed Typing Game - Builded with React JS 💫
 
 <br/>
 
