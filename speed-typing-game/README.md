@@ -2,7 +2,7 @@
 
 <br/>
 
-> ### Hello everyone, this is a speed typing game where you can check how fast you can type. Enjoy ✅
+> ### Hello everyone, this is a speed typing game where you can check how fast you can typing. Enjoy ✅
 
  <br/>
 
