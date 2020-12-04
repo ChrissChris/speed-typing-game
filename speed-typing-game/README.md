@@ -2,7 +2,7 @@
 
 <br/>
 
-> ### Hello everyone, this is a speed typing game builded with React where you can check how fast you can typing. Enjoy ✅
+> ### Hello everyone, this is a speed typing game builded with React JS where you can check how fast you can typing. Enjoy ✅
 
  <br/>
 
