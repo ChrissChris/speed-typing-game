@@ -2,4 +2,8 @@
 
 <br/>
 
-> ### Hello everyone, this is a speed typing game where you can check how fast you can
+> ### Hello everyone, this is a speed typing game where you can check how fast you can. Enjoy ✅
+
+ <br/>
+
+![Image](./public/image/pic.jpg)
